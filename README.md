@@ -43,4 +43,4 @@
 
 
 [twitter]: https://twitter.com/jcalarcon98
-[linkedin]: https://linkedin.com/in/jcalarcon98/
+[linkedin]: https://linkedin.com/in/jcalarcon98
