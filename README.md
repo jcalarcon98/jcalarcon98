@@ -7,7 +7,7 @@
 
 - 🇪🇨 I'm from Ecuador.
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Contribute more to Open Source projects, get a IT job.
+- 🥅 2021 Goals: Contribute more to Open Source projects.
 
 ### Connect with me:
 
