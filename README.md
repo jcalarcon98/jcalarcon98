@@ -3,18 +3,10 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/jcalarcon98?color=1DA1F2&label=Follow%20me%20on%20Twitter%21&logo=twitter&style=for-the-badge)](https://twitter.com/jcalarcon98)
 
 
-## I'm a Student, Animal Lover :dog2:, and Developer!!
+## I'm a Student, Animal Lover 🐶, and Developer!!
 
 - 🇪🇨 I'm from Ecuador.
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Contribute more to Open Source projects.
-
-### Connect with me:
-
-[<img align="left" alt="jcalarcon98 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="jcalarcon98 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
+- 🌱 I’m currently learning everything
 
 ### Languages and Tools:
 
@@ -34,5 +26,4 @@
 <br />
 <br />
 
-[twitter]: https://twitter.com/jcalarcon98
-[linkedin]: https://linkedin.com/in/jcalarcon98
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jcalarcon98&theme=soft-green)](https://git.io/streak-stats)
