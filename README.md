@@ -6,7 +6,7 @@
 ## I'm a Student, Animal Lover 🐶, and Developer!!
 
 - 🇪🇨 I'm from Ecuador.
-- 🌱 I’m currently learning everything
+- 📖 I’m currently learning about Software Architecture 💥
 
 ### Languages and Tools:
 
