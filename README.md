@@ -1,29 +1,15 @@
-### Hi, I'm Jean Carlos Alarcón - Software Developer 👋
+
+### Hi, I'm Jean Carlos Alarcón - Software Engineer 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/jcalarcon98?color=1DA1F2&label=Follow%20me%20on%20Twitter%21&logo=twitter&style=for-the-badge)](https://twitter.com/jcalarcon98)
 
+## About Me
 
-## I'm a Student, Animal Lover 🐶, and Developer!!
+I am a Software Engineer highly focused on Backend development, spreading SOLID principles, TDD, Clean Architecture, and Best Practices. With extensive experience in Python, JavaScript, and TypeScript, I am always eager to learn new things and enhance my skills.
 
-- 🇪🇨 I'm from Ecuador.
-- 📖 I’m currently learning about Software Architecture 💥
+## Expertise
 
-### Languages and Tools:
-
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-
-<br />
-<br />
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jcalarcon98&theme=soft-green)](https://git.io/streak-stats)
+- **Backend Development:** Extensive experience and expertise in backend development.
+- **Frontend Knowledge:** Strong knowledge and proficiency in frontend technologies.
+- **Languages:** Python, JavaScript, TypeScript.
+- **Best Practices:** SOLID principles, Test-Driven Development (TDD), Clean Architecture.
